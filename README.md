@@ -8,8 +8,10 @@ Here, we applied animation to the UI of the app provided by Mr. Umesh Basnet of 
 
 
 from this:
+
 ![](20190909_133807.gif)
 
 
 to this (Using tween and curve animation):
+
 ![](20190909_133850.gif)
